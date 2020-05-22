@@ -1,0 +1,4 @@
+Panda3D_Game/.vs
+Panda3D_Game/Panda3D_Game.sln
+Panda3D_Game/Panda3D_Game/*
+!Panda3D_Game/Panda3D_Game/**/*.cpp
